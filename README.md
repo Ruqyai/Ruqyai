@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Arabic NLP
 - 🤔 I’m looking for help with Data Science and Machine learning
 - 💬 Ask me about any repo in my account
-- 📫 How to reach me: [@Ru0Sa](https://twitter.com/Ru0Sa) or [www.ru0sa.com](http://ru0sa.com)
+- 📫 How to reach me: [@Ru0Sa](https://twitter.com/Ru0Sa) 
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: ...💬
 
