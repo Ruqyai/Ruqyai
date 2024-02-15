@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Arabic NLP
 - 🤔 I’m looking for help with Data Science and Machine learning
 - 💬 Ask me about any repo in my account
-- 📫 How to reach me: [My personal website](https://ruqyai.github.io/) 
+- 📫 How to reach me: [ruqyai.github.io](https://ruqyai.github.io/) 
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: ...💬
 
