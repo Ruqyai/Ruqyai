@@ -13,8 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [ruqyai.github.io](https://ruqyai.github.io/) 
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: ...💬
-
-<div id="sfcbsd7zuuluyhpbku9t5sjwef6fakakre2"></div>
-<!-- <script type="text/javascript" src="https://counter11.optistats.ovh/private/counter.js?c=bsd7zuuluyhpbku9t5sjwef6fakakre2&down=async" async></script> -->
-<noscript><a href="https://www.freecounterstat.com" title="free website hit counters"><img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=bsd7zuuluyhpbku9t5sjwef6fakakre2" border="0" title="free website hit counters" alt="free website hit counters"></a></noscript>
-
