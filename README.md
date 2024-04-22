@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: ...💬
 
+<a href="https://www.freecounterstat.com" title="free website hit counters"><img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=bsd7zuuluyhpbku9t5sjwef6fakakre2" border="0" title="free website hit counters" alt="free website hit counters"></a>
+
