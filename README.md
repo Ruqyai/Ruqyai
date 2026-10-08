@@ -3,6 +3,7 @@
 AI engineer and researcher. I build production LLM systems, study what happens inside them, and make them work in Arabic.
 
 **Now:** AI safety research with EleutherAI on hierarchy in sparse autoencoders, continuing after the SOAR 2026 program (July–August 2026).
+
 **Before:** AI Safety Research Fellow at Algoverse (2026), and nearly three years at Fyler building a GenAI search engine for MENA, from the first architecture to product ownership.
 
 [Website](https://ruqyai.github.io) · [عربي](https://ruqyai.github.io/ar/) · [Certificates](https://ruqyai.github.io/certificates/) · [LinkedIn](https://www.linkedin.com/in/rbinsafi) · [Hugging Face](https://huggingface.co/Ruqiya) · [Kaggle](https://www.kaggle.com/ruqiyas) · [X](https://twitter.com/Ru0Sa)
